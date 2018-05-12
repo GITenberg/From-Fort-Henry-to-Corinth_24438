@@ -1,0 +1,31 @@
+_repo: From-Fort-Henry-to-Corinth_24438
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Force, M. F. (Manning Ferguson)
+    alias: Force, Manning Ferguson
+    birthdate: 1824
+    deathdate: 1899
+    gutenberg_agent_id: '26492'
+    url: http://www.gutenberg.org/2009/agents/26492
+    wikipedia: http://en.wikipedia.org/wiki/Manning_Force
+description: Discusses the events leading up to and following the Battle of Shiloh,
+  General Grant's leadership during the battle, and the Union army west of the Appalachians
+  in the early stages of the Civil War.
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2008-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24438'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Campaigns'
+- !lcc 'E456'
+title: From Fort Henry to Corinth
+url: http://www.gutenberg.org/ebooks/24438
